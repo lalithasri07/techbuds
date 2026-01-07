@@ -1,0 +1,7 @@
+{
+  "name": " MaaSakhi - AI Pregnancy Support",
+  "description": "A centralized AI-driven pregnancy support ecosystem providing health tracking, mental well-being, essentials, and empathetic AI assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
